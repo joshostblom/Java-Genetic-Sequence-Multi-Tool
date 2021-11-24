@@ -9,6 +9,10 @@ The Java Gentetic Sequence Multi-Tool is a tool to easily analyze/modify genetic
 You may use the driver provided or you can use the Sequence class to use sequences within your own program.
 The program accepts file input (including FASTA) or manual sequence input.
 
+Program was tested using a batch file a on Windows operating system.
+Program was created using IntelliJ integrated development enviroment.
+Citation: JetBrains. IntelliJ IDEA. 2021.
+
 Functions include:
 - Transfering sequence to RNA from DNA or vice versa.
 - Getting the reverse strand, complimentary strand, or reverse complimentary strand.
@@ -59,3 +63,7 @@ complimentary sequence in the console.
 (5) Print nucleotide count - this will provide a list of all nucleotides and the integer of each one found in the sequence.
 (6) Print amino acid count - this will provide a list of all amino acids and the integer of each one found in the sequence.
 (7) Back - this will return to the main menu.
+
+SAMPLE INPUT/OUTPUT
+-------------------
+Refer to the sample images folder for smaple input/output of driver.
