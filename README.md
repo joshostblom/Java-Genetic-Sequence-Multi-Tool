@@ -14,7 +14,7 @@ Program was created using IntelliJ integrated development enviroment.
 Citation: JetBrains. IntelliJ IDEA. 2021.
 
 Functions include:
-- Transfering sequence to RNA from DNA or vice versa.
+- Transferring sequence to RNA from DNA or vice versa.
 - Getting the reverse strand, complimentary strand, or reverse complimentary strand.
 - Find where in the sequence is a subsequence.
 - Count the nucleotides and amino acids.
