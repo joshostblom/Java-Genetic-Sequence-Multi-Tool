@@ -23,9 +23,19 @@ Documentation for the Sequence class is included in doc folder (look for "Sequen
 
 INSTRUCTIONS FOR DRIVER
 -----------------------
-Opening batch file: After downloading content, you should just be able to double click on the batch file (JGSMT Driver.bat) to open
-the driver. DO NOT TAKE THE DRIVER OUT OF IT'S FOLDER, make a shortcut if you plan on opening it elsewhere,
-the driver needs to stay within the "src" folder with the other java files.
+Requirements: Make sure you have the latest version of Java (Version 8) installed on your computer.
+Java download link: https://www.java.com/download/ie_manual.jsp
+
+Download: From the main directory of the "Java-Genetic-Sequence-Multi-Tool" page, click the green "Code" dropdown menu. From there select
+"Download zip". Download and extract the zip file to a folder on your desktop or chosen directory by right clicking the zip file and chosing
+"extract here".
+
+Opening batch file: After downloading and extracting content, open the "Driver-and-Code" folder. Double click on the batch file (JGSMT Driver.bat)
+to open the driver. DO NOT TAKE THE DRIVER OUT OF IT'S FOLDER, make a shortcut if you plan on opening it elsewhere,
+the driver needs to stay within the "Driver-and-Code" folder with the other java files.
+
+SAMPLE INPUT/OUTPUT
+-------------------
 
 - SEQUENCE PROMPT: When you open the driver, it will ask how you want to input your sequence. You have two options:
 (1) Enter a file or (2) Enter sequence manually.
@@ -64,6 +74,4 @@ complimentary sequence in the console.
 (6) Print amino acid count - this will provide a list of all amino acids and the integer of each one found in the sequence.
 (7) Back - this will return to the main menu.
 
-SAMPLE INPUT/OUTPUT
--------------------
-Refer to the sample images folder for smaple input/output of driver.
+If you'd rather look at screenshots of the program, refer to the "sample-images" folder for smaple input/output of driver.
