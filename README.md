@@ -74,4 +74,4 @@ complimentary sequence in the console.
 (6) Print amino acid count - this will provide a list of all amino acids and the integer of each one found in the sequence.
 (7) Back - this will return to the main menu.
 
-If you'd rather look at screenshots of the program, refer to the "sample-images" folder for smaple input/output of driver.
+If you'd rather look at screenshots of the program, refer to the "sample-images" folder for smaple input/output of the driver.
