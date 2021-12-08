@@ -23,7 +23,7 @@ Documentation for the Sequence class is included in doc folder (look for "Sequen
 
 INSTRUCTIONS FOR DRIVER
 -----------------------
-Requirements: Make sure you have the latest version of Java (Version 8) installed on your computer.
+Requirements: Make sure you have the latest version of Java (Version 17) installed on your computer.
 Java download link: https://www.java.com/download/ie_manual.jsp
 
 Download: From the main directory of the "Java-Genetic-Sequence-Multi-Tool" page, click the green "Code" dropdown menu. From there select
